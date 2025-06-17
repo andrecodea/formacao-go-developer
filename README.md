@@ -1,23 +1,47 @@
-# Formação Go Developer 
-Este repositório irá armazenar os desafios que cumpri durante a Formação Go Developer da DIO.
+# Go Developer Training
 
-## Desafios
-Desafios propostos pela professora Tenille Martins durante a Formação Go Developer da DIO.
+This repository stores the challenges I completed during the **Go Developer Training at DIO**.
 
-### Desafio 1: Conversor termométrico de Kelvin para Celsius | [repo](https://github.com/andrecodea/formacao-go-developer/blob/main/desafios/desafio%202/conversor.go).
-- **Objetivo**: Conversão de escalas termométricas com Go.
-- **Desafio**: Um professor de ensino médio solicitou aos seus alunos que desenvolvessem um programa em Go para converter o valor do ponto de ebulição da água, de Kelvin para Celsius.
-- **Solução**: Criei um programa em Go para converter qualquer temperatura em Kelvin para Celsius e, quando as temperaturas de ebulição e solidificação da água fossem escolhidas, o programa irá indicar com textos, respectivamente.
+## 🎯 About the Training
 
-### Desafio 2: Detector de Números divisíveis por 3 | [repo](https://github.com/andrecodea/formacao-go-developer/blob/main/desafios/desafio%201/divtres.go).
-- **Objetivo**: Detectar números divisíveis por 3 em Go.
-- **Desafio**: Detectar números divisíveis por 3 em que o uso de um loop for e do operador de módulo (%). 
-- **Solução**: Criei uma função que detecta os números divisíveis por 3 em um determinado intervalo usando um loopf for e o operador de módulo (%).
+Training taught by professor **Tenille Martins** on the DIO platform, focused on developing practical Go skills through progressive challenges.
 
-### Desafio 3: PinPan | [repo](https://github.com/andrecodea/formacao-go-developer/blob/main/desafios/desafio%203/pinpan.go).
-- **Objetivo**: Um programa no estilo "FizzBuzz" em que caso o número seja divisível por 3, a mensagem "Pin" deve ser exibida e, caso seja divisível por 5, a mensagem "Pan" deve ser exibida.
-- **Desafio**: Detectar números divisíveis por 3 e por 5 e, ao serem detectados, exibirem mensagens diferentes.
-- **Solução**: Nesse caso, criei uma função similar à do desafio 3, entretanto, dessa vez, ela também busca por números divisíveis por 5 e, novamente, o uso de um loop for e do operador de módulo (%) são obrigatórios.
+## 🚀 Challenges
 
-## Técnologias utilizadas
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+### Challenge 1: Thermometric Converter from Kelvin to Celsius | [repo](https://github.com/andrecodea/formacao-go-developer/blob/main/desafios/desafio%202/conversor.go)
+
+- **Objective:** Temperature scale conversion with Go
+- **Challenge:** Develop a program to convert water's boiling point from Kelvin to Celsius
+- **Solution:** I created a program that converts any temperature from Kelvin to Celsius and automatically identifies water's boiling and freezing points with specific messages
+
+### Challenge 2: Numbers Divisible by 3 Detector | [repo](https://github.com/andrecodea/formacao-go-developer/blob/main/desafios/desafio%201/divtres.go)
+
+- **Objective:** Detect numbers divisible by 3 in Go
+- **Challenge:** Implement detection using `for` loop and modulo operator (`%`)
+- **Solution:** I developed a function that identifies numbers divisible by 3 within a determined range using repetition structures and mathematical operations
+
+### Challenge 3: PinPan | [repo](https://github.com/andrecodea/formacao-go-developer/blob/main/desafios/desafio%203/pinpan.go)
+
+- **Objective:** Implement a custom "FizzBuzz" style program
+- **Challenge:** Display "Pin" for numbers divisible by 3 and "Pan" for those divisible by 5
+- **Solution:** I created a function that combines the verifications from previous challenges, detecting divisibility by 3 and 5 simultaneously using `for` loop and modulo operator (`%`)
+
+## 🛠️ Technologies Used
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+## 📚 Key Learnings
+
+- Go language fundamentals
+- Control and repetition structures
+- Mathematical and logical operations
+- Programming best practices
+- Algorithmic problem solving
+
+## 🤝 Contributions
+
+Feel free to explore the code and suggest improvements!
+
+---
+
+⭐ **Liked the project?** Leave a star on the repository!
