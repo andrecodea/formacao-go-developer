@@ -46,7 +46,7 @@ Training taught by professor **Tenille Martins** on the DIO platform, focused on
 
 ## 🤝 Contributions
 
-Feel free to explore the code and suggest improvements!
+Feel free to explore the code, suggest improvements, and point out mistakes! After all, I'm just learning.
 
 
 ## 📄 License
