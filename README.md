@@ -28,7 +28,7 @@ Training taught by professor **Tenille Martins** on the DIO platform, focused on
 
 ## 🛠️ Technologies Used
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) **1.24.4**
 
 ## 📚 Key Learnings
 
