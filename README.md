@@ -1,4 +1,4 @@
-# Go Developer Training
+# Go Developer Training Challenges
 
 This repository stores the challenges I completed during the **Go Developer Training at DIO**.
 
