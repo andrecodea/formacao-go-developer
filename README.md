@@ -26,7 +26,7 @@ Training taught by professor **Tenille Martins** on the DIO platform, focused on
 - **Challenge:** Display "Pin" for numbers divisible by 3 and "Pan" for those divisible by 5
 - **Solution:** I created a function that combines the verifications from previous challenges, detecting divisibility by 3 and 5 simultaneously using `for` loop and modulo operator (`%`)
 
-### Challenge 4: PinPan | [repo](https://github.com/andrecodea/go-developer-training-dio/blob/main/challenge4-pingpong-concurrency.go)
+### Challenge 4: Ping Pong | [repo](https://github.com/andrecodea/go-developer-training-dio/blob/main/challenge4-pingpong-concurrency.go)
 
 - **Objective:** Implement a pingpong program using concurrency
 - **Challenge:** Implement concurrency to print "ping" and "pong" one after the other, using goroutines, and channels.
