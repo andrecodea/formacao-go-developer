@@ -30,8 +30,7 @@ Training taught by professor **Tenille Martins** on the DIO platform, focused on
 
 - **Objective:** Implement a pingpong program using concurrency
 - **Challenge:** Implement concurrency to print "ping" and "pong" one after the other, using goroutines, and channels.
-- **Solution:** I created two channels that send "ping" and "pong", had a receiving end in a loop that prints the message and sleeps for 1 second. Aditionally, I used sync to syncronize both goroutines and prevent the main goroutine from ending the program without any returns, using WaitGroup functions `Add()`
-- , `Wait()` and `Done()`.
+- **Solution:** I created two channels that send "ping" and "pong", had a receiving end in a loop that prints the message and sleeps for 1 second. Aditionally, I used sync to syncronize both goroutines and prevent the main goroutine from ending the program without any returns, using WaitGroup functions `Add()` , `Wait()` and `Done()`.
 
 ## 🛠️ Technologies Used
 
