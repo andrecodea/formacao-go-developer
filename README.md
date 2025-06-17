@@ -8,25 +8,25 @@ Training taught by professor **Tenille Martins** on the DIO platform, focused on
 
 ## 🚀 Challenges
 
-### Challenge 1: Thermometric Converter from Kelvin to Celsius | [repo](https://github.com/andrecodea/go-developer-training-dio/blob/main/challenge1-temperature-converter.go)
+### Challenge 1: Thermometric Converter from Kelvin to Celsius | [repo](challenge1-temperature-converter.go)
 
 - **Objective:** Temperature scale conversion with Go
 - **Challenge:** Develop a program to convert water's boiling point from Kelvin to Celsius
 - **Solution:** I created a program that converts any temperature from Kelvin to Celsius and automatically identifies water's boiling and freezing points with specific messages
 
-### Challenge 2: Numbers Divisible by 3 Detector | [repo](https://github.com/andrecodea/go-developer-training-dio/blob/main/challenge2-divisible-by-three.go)
+### Challenge 2: Numbers Divisible by 3 Detector | [repo](challenge2-divisible-by-three.go)
 
 - **Objective:** Detect numbers divisible by 3 in Go
 - **Challenge:** Implement detection using `for` loop and modulo operator (`%`)
 - **Solution:** I developed a function that identifies numbers divisible by 3 within a determined range using repetition structures and mathematical operations
 
-### Challenge 3: PinPan | [repo](https://github.com/andrecodea/go-developer-training-dio/blob/main/challenge3-pinpan.go)
+### Challenge 3: PinPan | [repo](challenge3-pinpan.go)
 
 - **Objective:** Implement a custom "FizzBuzz" style program
 - **Challenge:** Display "Pin" for numbers divisible by 3 and "Pan" for those divisible by 5
 - **Solution:** I created a function that combines the verifications from previous challenges, detecting divisibility by 3 and 5 simultaneously using `for` loop and modulo operator (`%`)
 
-### Challenge 4: Ping Pong | [repo](https://github.com/andrecodea/go-developer-training-dio/blob/main/challenge4-pingpong-concurrency.go)
+### Challenge 4: Ping Pong | [repo](challenge4-pingpong-concurrency.go)
 
 - **Objective:** Implement a pingpong program using concurrency
 - **Challenge:** Implement concurrency to print "ping" and "pong" one after the other, using goroutines, and channels.
