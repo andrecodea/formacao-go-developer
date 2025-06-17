@@ -42,6 +42,10 @@ Training taught by professor **Tenille Martins** on the DIO platform, focused on
 
 Feel free to explore the code and suggest improvements!
 
+
+## 📄 License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
 ---
 
 ⭐ **Liked the project?** Leave a star on the repository!
