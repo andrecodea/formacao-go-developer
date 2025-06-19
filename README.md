@@ -6,8 +6,6 @@
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 </div>
 
-
-
 ## 🎯 About the Training
 
 Training taught by professor **Tenille Martins** on the DIO platform, focused on developing practical Go skills through progressive challenges.
@@ -55,5 +53,6 @@ Feel free to explore the code, suggest improvements, and point out mistakes! Aft
 This project is licensed under the MIT License - see the [LICENSE](LICENSE.txt) file for details.
 
 ---
-
-⭐ **Liked the project?** Leave a star on the repository!
+<div align="center">
+  <b>⭐ Liked the project? Leave a star on the repository!</b>
+</div>
