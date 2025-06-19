@@ -1,4 +1,4 @@
-<div>
+<div align="center">
   <h1>Formação Go Developer</h1>
 
   <p>Este repositório armazena os desafios que cumpri durante a **Formação Go Developer da DIO**.</p>
