@@ -1,5 +1,10 @@
-# Formação Go Developer
-Este repositório armazena os desafios que cumpri durante a **Formação Go Developer da DIO**.
+<div>
+  <h1>Formação Go Developer</h1>
+
+  <p>Este repositório armazena os desafios que cumpri durante a **Formação Go Developer da DIO**.</p>
+
+  ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+</div>
 
 ## 🎯 Sobre a Formação
 Formação ministrada pela professora **Tenille Martins** na plataforma DIO, focada no desenvolvimento de habilidades práticas em Go através de desafios progressivos.
@@ -26,11 +31,6 @@ Formação ministrada pela professora **Tenille Martins** na plataforma DIO, foc
 - Desafio: Implementar concorrência para imprimir "ping" e "pong" um após o outro, usando goroutines e channels.
 - Solução: Criei dois channels que enviam "ping" e "pong", tinha uma extremidade receptora em um loop que imprime a mensagem e dorme por 1 segundo. Adicionalmente, usei sync para sincronizar ambas as goroutines e evitar que a goroutine principal termine o programa sem nenhum retorno, usando as funções WaitGroup Add(), Wait() e Done().
 
-
-## 🛠️ Tecnologias Utilizadas
-
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-
 ## 📚 Aprendizados
 - Fundamentos da linguagem Go
 - Estruturas de controle e repetição
@@ -46,5 +46,6 @@ Sinta-se à vontade para explorar os códigos e sugerir melhorias!
 Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para detalhes.
 
 ---
-
-⭐ **Gostou do projeto?** Deixe uma estrela no repositório!
+<div align="center">
+  <b>⭐ Gostou do projeto? Deixe uma estrela no repositório!</b>
+</div>
