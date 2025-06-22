@@ -31,12 +31,19 @@ Formação ministrada pela professora **Tenille Martins** na plataforma DIO, foc
 - Desafio: Implementar concorrência para imprimir "ping" e "pong" um após o outro, usando goroutines e channels.
 - Solução: Criei dois channels que enviam "ping" e "pong", tinha uma extremidade receptora em um loop que imprime a mensagem e dorme por 1 segundo. Adicionalmente, usei sync para sincronizar ambas as goroutines e evitar que a goroutine principal termine o programa sem nenhum retorno, usando as funções WaitGroup Add(), Wait() e Done().
 
+## Desafio 5: Esteira de testes para uma calculadora |[repo](challenge5-unit-testing)
+- Objetivo: Implementar uma esteira de testes.
+- Desafio: Implementar uma esteira de testes que verifique se as operações de uma calculadora estão corretas.
+- Solução: Criei um arquivo com funções básicas de uma calculadora e com resultados pré-definidos, após isso, criei um arquivo de testes em que fiz uma esteira com testes corretos e incorretos seguindo a convenção de nomes para testes e a convenção de estruturas *AAA*.
+
 ## 📚 Aprendizados
 - Fundamentos da linguagem Go
 - Estruturas de controle e repetição
 - Operações matemáticas e lógicas
 - Boas práticas de programação
 - Resolução de problemas algorítmicos
+- APIs RESTful e CRUDs
+- Testes unitários
 
 ## 🤝 Contribuições
 Sinta-se à vontade para explorar os códigos e sugerir melhorias!
