@@ -36,13 +36,19 @@ Training taught by professor **Tenille Martins** on the DIO platform, focused on
 - **Challenge:** Implement concurrency to print "ping" and "pong" one after the other, using goroutines, and channels.
 - **Solution:** I created two channels that send "ping" and "pong", had a receiving end in a loop that prints the message and sleeps for 1 second. Aditionally, I used sync to syncronize both goroutines and prevent the main goroutine from ending the program without any returns, using WaitGroup functions `Add()` , `Wait()` and `Done()`.
 
-## 📚 Key Learnings
+## Challenge 5: Test pipeline for a calculator | [repo](challenge5-unit-testing)  
+- **Objective:** Implement a test pipeline.  
+- **Challenge:** Create a test pipeline to verify whether a calculator's operations are working correctly.  
+- **Solution:** I developed a file with basic calculator functions and predefined results. Then, I created a test file with a pipeline including both correct and incorrect test cases, following testing naming conventions and the *AAA* structure.  
 
-- Go language fundamentals
-- Control and repetition structures
-- Mathematical and logical operations
-- Programming best practices
-- Algorithmic problem solving
+## 📚 Key Learnings  
+- Go language fundamentals  
+- Control and looping structures  
+- Mathematical and logical operations  
+- Programming best practices  
+- Algorithmic problem-solving  
+- RESTful APIs and CRUD operations  
+- Unit testing  
 
 ## 🤝 Contributions
 
