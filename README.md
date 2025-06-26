@@ -6,11 +6,11 @@
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 </div>
 
-## 🎯 About the Training
+## About the Training
 
 Training taught by professor **Tenille Martins** on the DIO platform, focused on developing practical Go skills through progressive challenges.
 
-## 🚀 Challenges
+## Challenges
 
 ### Challenge 1: Thermometric Converter from Kelvin to Celsius | [repo](challenge1-temperature-converter.go)
 
@@ -41,7 +41,7 @@ Training taught by professor **Tenille Martins** on the DIO platform, focused on
 - **Challenge:** Create a test pipeline to verify whether a calculator's operations are working correctly.  
 - **Solution:** I developed a file with basic calculator functions and predefined results. Then, I created a test file with a pipeline including both correct and incorrect test cases, following testing naming conventions and the *AAA* structure.  
 
-## 📚 Key Learnings  
+## Key Learnings  
 - Go language fundamentals  
 - Control and looping structures  
 - Mathematical and logical operations  
@@ -50,15 +50,15 @@ Training taught by professor **Tenille Martins** on the DIO platform, focused on
 - RESTful APIs and CRUD operations  
 - Unit testing  
 
-## 🤝 Contributions
+## Contributions
 
 Feel free to explore the code, suggest improvements, and point out mistakes! After all, I'm just learning.
 
 
-## 📄 License
+## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE.txt) file for details.
 
 ---
 <div align="center">
-  <b>⭐ Liked the project? Leave a star on the repository!</b>
+  <b> Liked the project? Leave a star on the repository!</b>
 </div>
